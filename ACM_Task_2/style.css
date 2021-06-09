@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  line-height: 1.8em;
+}
+
+.image {
+  display: grid;
+  place-items: center;
+  background-size: cover;
+  background-position: center;
+  background-color: darkgrey;
+  background-blend-mode: soft-light;
+  background-attachment: fixed;
+}
+
+.head {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("images/image1.jpeg");
+}
+
+.head > div {
+  font-size: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  background: #111111bd;
+  color: #fff;
+  padding: 20px;
+}
+
+.section {
+  text-align: center;
+  padding: 50px 80px;
+}
+
+.section-1 {
+  background-color: #f4f4f4;
+  color: #666;
+}
+
+.bg-2 {
+  min-height: 400px;
+  background-image: url("images/image2.jpeg");
+}
+
+.image > h1 {
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 5px;
+}
+
+.section-2 {
+  background-color: #282e34;
+  color: #ddd;
+}
+
+.bg-3 {
+  min-height: 400px;
+  background-image: url("images/image3.jpeg");
+}
