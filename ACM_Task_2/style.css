@@ -6,6 +6,12 @@ body {
   font-family: "Lato", sans-serif;
   line-height: 1.8em;
 }
+body--main {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  line-height: 1.8em;
+}
 
 .image {
   display: grid;
