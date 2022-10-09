@@ -22,6 +22,16 @@ body--main {
   background-blend-mode: soft-light;
   background-attachment: fixed;
 }
+.image--uday {
+  display: grid;
+  place-items: center;
+  background-size: cover;
+  background-position: center;
+  background-color: darkgrey;
+  background-blend-mode: soft-light;
+  background-attachment: fixed;
+}
+
 
 .head {
   width: 100vw;
