@@ -17,6 +17,15 @@ body {
   display: grid;
   grid-template-rows: 1fr 1fr;
 }
+.calculator--main {
+  width: 20rem;
+  height: 22rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  background-color: dimgray;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
 .display-cont {
   padding: 10px;
   display: grid;
