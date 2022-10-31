@@ -67,6 +67,11 @@ body--main--ayush {
   color: #666;
 }
 
+.bg-2--vishesh {
+  min-height: 400px;
+  background-image: url("images/image2.jpeg");
+}
+
 .bg-2 {
   min-height: 400px;
   background-image: url("images/image2.jpeg");
